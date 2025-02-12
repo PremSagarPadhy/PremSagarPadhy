@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PremSagarPadhy](https://github.com/PremSagarPadhy)
 
-- 💬 Ask me about **C++, Java, Python, MySQL**
+- 💬 Ask me about **C++, Java, Python, MySQL, C**
 
 - 📫 How to reach me **sagarprempadhy@gmail.com**
 
